@@ -161,6 +161,7 @@ Anthropic 的订阅收款对支付方式和地区都有要求。国内发行的�
 - [ChatGPT Plus 国内充值失败排查](https://github.com/Ai66Man/ChatGPT-Pay)
 - [Grok Super 国内充值教程](https://github.com/Ai66Man/Grok-pay)
 - [Claude Pro 无法订阅？国内充值开通教程](https://github.com/Ai66Man/claude-pro-goplus)
+- [Claude Code 和 Codex 订阅对比：编程谁更强](https://ai66man.github.io/chatgpt-plus-sub/claude-code-vs-codex.html)
 
 ## 总结
 
